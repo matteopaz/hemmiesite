@@ -17,15 +17,15 @@
 			<Hero />
 		</div>
 
-		<div class="lg:container mx-auto">
+
 			<Carousel />
-		</div>
+
 	</div>
 	<div class="container mx-auto">
 		<Stats />
 		<Chat />
 
-		<div class="my-10">
+		<div class="my-10 ">
 			<HeroCards />
 		</div>
 
@@ -33,7 +33,7 @@
 			<Mobile />
 		</div>
 
-		<div class="my-10">
+		<div class="my-10 w-10 flex">
 			<Links />
 		</div>
 	</div>
